@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih02grongoog_0227.png"; bbox 0 0 3184 5225; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 468 1980 864 2087">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 468 1980 864 2087">
+     <span class='ocr_line' id='line_1_1' title="bbox 468 1980 864 2087; baseline 0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 468 1980 864 2087; x_wconf 93' lang='lat' dir='ltr'>EPITOMAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 27 2308 1081 2441">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 27 2308 1081 2441">
+     <span class='ocr_line' id='line_1_2' title="bbox 27 2308 1081 2441; baseline -0.017 0"><span class='ocrx_word' id='word_1_2' title='bbox 27 2308 33 2441; x_wconf 58' lang='lat' dir='ltr'><strong>t</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 252 2316 1081 2429; x_wconf 78' lang='lat' dir='ltr'><strong>LIBRORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 418 2661 920 2744">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 418 2661 920 2744">
+     <span class='ocr_line' id='line_1_3' title="bbox 418 2661 920 2744; baseline 0 -4"><span class='ocrx_word' id='word_1_4' title='bbox 418 2661 920 2744; x_wconf 86' lang='lat' dir='ltr'><strong>DEPERDITORUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1596 5225">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1596 5225">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1596 5225; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1596 5225; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
